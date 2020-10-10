@@ -5,6 +5,8 @@
 >
 >关注公众号可获得最新每日一个知识点，让我们共同进步。
 
+![image](https://github.com/qianglu1989/technology/blob/main/pic/%E6%9E%B6%E6%9E%84%E6%8A%80%E6%9C%AF.jpg?raw=true)
+
 
 ## 每日一个知识点
 [volatile的可见性原理](每日一个知识点/volatile的可见性原理.md)
